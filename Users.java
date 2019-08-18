@@ -1,2 +1,3 @@
+git reset and revert commands demo
 User addedd....
 This files contains all users info
