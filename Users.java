@@ -1,2 +1,3 @@
+this line is added in master branch
 User addedd....
 This files contains all users info
